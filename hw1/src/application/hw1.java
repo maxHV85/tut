@@ -94,7 +94,7 @@ public class hw1 extends Application {
 	    billsArea.setPrefWidth(190); // Set the preferred width
 	    billsArea.setEditable(false); // Make it non-editable
 	    billSection.setSpacing(11);
-	    Button btnConfirm = new Button("Confirm");
+	    Button btnConfirm = new Button("Harsh V’s second commit”");
 	    billSection.getChildren().addAll(billsArea, btnConfirm); // Add the TextArea to the billSection
 	    
 	    
@@ -249,7 +249,7 @@ public class hw1 extends Application {
 			
 			
 	        //Title of the Screen
-			primaryStage.setTitle("Joe's Deli");
+			primaryStage.setTitle("n class GitHub activity”");
 			primaryStage.setScene(scene);
 			primaryStage.show();
 			}
